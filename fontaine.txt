@@ -1,0 +1,190 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Arvo
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright 2013 Anton Koovit, Yassin Baggar.
+    License: SIL openfont License 1.1
+    License url: http://www.korkork.com/license/arvo/
+    Version: Version 2.001 2013 beta release
+    Vendor: Anton Koovit, Yassin Baggar
+    Vendor url: http://www.korkork.com/
+    Designer: Anton Koovit, Yassin Baggar
+    Designer url: http://www.kork.ee
+    Glyph count: 450
+    Character count: 433
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+  Font:
+    Common name: Arvo
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2013 by Anton Koovit.
+    License: SIL openfont License 1.1
+    License url: http://www.korkork.com/license/arvo/
+    Version: Version 2.001 2013
+    Vendor: Anton Koovit
+    Vendor url: http://www.korkork.com/
+    Designer: Anton Koovit
+    Designer url: http://www.kork.ee
+    Glyph count: 450
+    Character count: 433
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+  Font:
+    Common name: Arvo
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright 2013 Anton Koovit, Yassin Baggar.
+    License: SIL openfont License 1.1
+    License url: http://www.korkork.com/license/arvo/
+    Version: Version 2.001 2013
+    Vendor: Anton Koovit, Yassin Baggar
+    Vendor url: http://www.korkork.com/
+    Designer: Anton Koovit, Yassin Baggar
+    Designer url: http://www.kork.ee
+    Glyph count: 450
+    Character count: 433
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+  Font:
+    Common name: Arvo
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2013 Anton Koovit.
+    License: SIL openfont License 1.1
+    License url: http://www.korkork.com/license/arvo/
+    Version: Version 2.001 2013
+    Vendor: Anton Koovit
+    Vendor url: http://www.korkork.com/
+    Designer: Anton Koovit
+    Designer url: http://www.kork.ee
+    Glyph count: 450
+    Character count: 433
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
